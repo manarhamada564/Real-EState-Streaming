@@ -8,11 +8,11 @@ from openai import OpenAI
 import re
 from kafka import KafkaProducer
 
-AUTH = 'brd-customer-hl_352fe02e-zone-scraping_browser1:b0874wc2aaoy'
-SBR_WS_CDP = f'wss://{AUTH}@brd.superproxy.io:9222'
+AUTH = '<UR DATABRIGHT KEY>'
+SBR_WS_CDP = f'<from site>'
 
 # client = OpenAI(
-#     api_key="sk-9d574603c29245f5b4611c9b095f0597",
+#     api_key="<AI-API>",
 #     base_url="https://api.deepseek.com/v1"
 # )
 
