@@ -1,6 +1,6 @@
 # Real Estate Data Pipeline Architecture with DataBright Scraper
 <p align="center">
-  <img src="relstate.drawio (1).png" alt="Architecture Diagram" width="50%">
+  <img src="arch.drawio (4).svg" alt="Architecture Diagram" width="50%">
 </p>
 <hr>
 
