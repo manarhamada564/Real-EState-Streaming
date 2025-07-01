@@ -2,7 +2,7 @@
 <p align="center">
   <img src="relstate.drawio (1).png" alt="Architecture Diagram" width="50%">
 </p>
-<br>
+<hr>
 # Layers
 1. Data Ingestion Layer (DataBright Scraper)
 2. Streaming Layer (Kafka)
