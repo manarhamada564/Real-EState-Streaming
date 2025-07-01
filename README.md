@@ -3,9 +3,10 @@
   <img src="relstate.drawio (1).png" alt="Architecture Diagram" width="50%">
 </p>
 <hr>
-# Layers
-1. Data Ingestion Layer (DataBright Scraper)
-2. Streaming Layer (Kafka)
-3. Processing Layer (Spark Structured Streaming)
-4. Storage Layer (Cassandra)
-5. Continuous Flow
+
+## Technology Layers
+1. **Data Ingestion Layer**: Utilizing DataBright Scraper for gathering data.
+2. **Streaming Layer**: Implementing Kafka for real-time data streaming.
+3. **Processing Layer**: Leveraging Spark Structured Streaming for data processing.
+4. **Storage Layer**: Using Cassandra for scalable data storage solutions.
+5. **Continuous Flow**: Ensuring seamless and uninterrupted data processing
