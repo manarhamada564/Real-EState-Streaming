@@ -20,5 +20,5 @@ if __name__ == "__main__":
     for host in hosts_to_test:
         print(f"Testing connection to {host}...")
         if test_cassandra_connection(host):
-            print(f"✅ Use this host in your code: '{host}'")
+            print(f"host: '{host}'")
             break
